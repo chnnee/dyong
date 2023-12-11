@@ -18,6 +18,10 @@ while True:
     for (x, y, w, h) in boxes:
         cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
+
+    cv2.putText(frame, f'Pedestrians: {len(boxes)}', (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+
+
     cv2.imshow('Pedestrian Detection', frame)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
