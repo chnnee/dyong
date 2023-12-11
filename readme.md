@@ -1,12 +1,11 @@
-Hello! We are team Dyong taking an 'open source SW' lecture at Gachon university. 
+Hello! We are Team Dyong, currently enrolled in the 'Open Source Software' course at Gachon University.
 
-In modern cities, movement is essential and traffic is rapidly increasing accordingly.
-In response, we created the 'Pedestrain Analysis System on the Road' by utilizing the Github and OpenCV that we learned in the lecture.
+In the fast-paced urban landscape, the significance of efficient movement and the challenges posed by increasing traffic are more apparent than ever. To address these issues, we have leveraged the knowledge gained from the open-source software (OSS) lecture, along with GitHub and OpenCV, to develop the 'Pedestrian Analysis System on the Road.'
 
-Our system focuses on improving traffic safety and efficiency by analyzing the movement of pedestrains on the road in real time.
-Furthemore, we can create a better environment by continuously improving road infrastrucure by utilizing the collected pedestrian data.
+Our system is dedicated to enhancing both traffic safety and efficiency by real-time analysis of pedestrian movements on roadways. As we continuously gather and utilize pedestrian data, we aspire to contribute to the ongoing improvement of urban infrastructure, envisioning a future where our efforts lead to safer and more efficient transportation systems.
 
-Our project may be a small effort to explore future road systems and challenge traffic problems in modern cities, but we believe that small efforts can lead to big changes.
-Together, we look forward to our efforts to help build a safer and more efficient transportation system in future cities!
+Particularly noteworthy, we have integrated code to recognize smiling expressions using a camera, adding an engaging aspect to our innovative project.
 
-Thank you!
+While our project represents a modest step in exploring future road systems and tackling traffic issues in modern cities, we firmly believe in the transformative power of small efforts. We eagerly anticipate the collective impact of initiatives like ours on building a safer and more efficient transportation system for the cities of tomorrow.
+
+Thank you for your attention!
